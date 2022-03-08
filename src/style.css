@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+}
+.search-bar {
+  margin: 30px auto;
+  display: block;
+  text-align: center;
+}
+.search-btn {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+.emoji {
+  font-size: 150px;
+}
+.weather {
+  font-weight: bold;
+  font-size: 60px;
+}
+.col {
+  font-size: 60px;
+}
+.prev {
+  font-size: 40px;
+}
+.city {
+  position: relative;
+  left: 800px;
+  bottom: 60px;
+}
+.resume {
+  position: relative;
+  bottom: 40px;
+  font-size: 25px;
+}
+p {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
